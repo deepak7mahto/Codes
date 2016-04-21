@@ -1,2 +1,2 @@
-# Ds
-Data Structure code
+# code Snips
+Practice code Snips
