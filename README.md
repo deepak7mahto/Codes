@@ -1,2 +1,2 @@
 # code Snips
-Practice code Snips
+Code Snips
